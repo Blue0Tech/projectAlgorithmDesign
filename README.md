@@ -1,2 +1,2 @@
-# projectAlgorithmDesign
-Implemented an alternative to the isTouching function is JS without using the actual library.
+# p5.play-boilerplate
+Boiler plate for p5.play
